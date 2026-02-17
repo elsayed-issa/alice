@@ -19,12 +19,6 @@ A simple educational tool to count capitalized words in a text file.
 pip install git+https://github.com/yourusername/alice.git
 ```
 
-## Usage
-```bash
-capital-words alice.txt
-capital-words alice.txt --top 10
-```
-
 ## For developers
 ```bash
 git clone https://github.com/yourusername/alice.git

@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     entry_points={
         "console_scripts": [
-            "capital-words=alice.counter:main",  # lets users run it as a command
+            "alice=alice.counter:main",
         ],
     },
 )
