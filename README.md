@@ -16,7 +16,7 @@ A simple educational tool to count capitalized words in a text file.
 
 ## Installation
 ```bash
-pip install git+https://github.com/yourusername/alice.git
+pip install git+https://github.com/elsayed-issa/alice.git
 ```
 
 ## For developers
